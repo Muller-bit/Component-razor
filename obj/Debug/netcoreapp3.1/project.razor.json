@@ -12,35 +12,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 71724216,
+        "HashCode": 288996495,
         "Kind": "Components.Component",
-        "Name": "component.App",
+        "Name": "component.Pages.Counter",
         "AssemblyName": "component",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "component.App"
+          "Common.TypeName": "component.Pages.Counter"
         }
       },
       {
-        "HashCode": 1056126799,
+        "HashCode": -1896563266,
         "Kind": "Components.Component",
-        "Name": "component.App",
+        "Name": "component.Pages.Counter",
         "AssemblyName": "component",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "component.App"
+            "TagName": "component.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "component.App",
+          "Common.TypeName": "component.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -111,120 +111,35 @@
         }
       },
       {
-        "HashCode": 1933177968,
+        "HashCode": 71724216,
         "Kind": "Components.Component",
-        "Name": "component.Pages.Graph",
+        "Name": "component.App",
         "AssemblyName": "component",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Graph"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "values",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "values"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "colors",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "colors"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "title"
-            }
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "component.Pages.Graph"
+          "Common.TypeName": "component.App"
         }
       },
       {
-        "HashCode": 788949667,
+        "HashCode": 1056126799,
         "Kind": "Components.Component",
-        "Name": "component.Pages.Graph",
+        "Name": "component.App",
         "AssemblyName": "component",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "component.Pages.Graph"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "values",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "values"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "colors",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "colors"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "title"
-            }
+            "TagName": "component.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "component.Pages.Graph",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 288996495,
-        "Kind": "Components.Component",
-        "Name": "component.Pages.Counter",
-        "AssemblyName": "component",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "component.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -1896563266,
-        "Kind": "Components.Component",
-        "Name": "component.Pages.Counter",
-        "AssemblyName": "component",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "component.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "component.Pages.Counter",
+          "Common.TypeName": "component.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
